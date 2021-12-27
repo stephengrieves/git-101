@@ -1,8 +1,13 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
+	color:  whitesmoke;
+	background-color: orangered;
 }
 
+h1 {
+	font-weight: 100;
+}
 
 #logo {
 	height: 70px;
